@@ -21,7 +21,6 @@
             <modules>
                 <module>jaxb</module>
                 <module>jackson2</module>
-                <module>resteasy-atom</module>
             </modules>
         </profile>
     </profiles>
