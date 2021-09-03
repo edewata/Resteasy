@@ -78,11 +78,6 @@
 	        <artifactId>commons-io</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>net.jcip</groupId>
-            <artifactId>jcip-annotations</artifactId>
-        </dependency>
-
         <!-- Used by org.jboss.resteasy.plugins.server.tjws.* -->
         <!--
         <dependency>
